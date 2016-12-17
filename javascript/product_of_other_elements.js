@@ -1,5 +1,5 @@
 /*
- Given a list on integers, write a function that will return a list, in which for each index the element will be the
+ Given a list of integers, write a function that will return a list, in which for each index the element will be the
  product of all integers except for the element at that index.
 
  For example, an input of [1, 2, 3, 4] would return [24, 12, 8, 6] by performing:
